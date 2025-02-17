@@ -127,8 +127,8 @@ pip install -r requirements.txt
 ## ▶️ Running the Application  
 1. Clone the repository and navigate to it:  
    ```bash
-   git clone https://github.com/your-repo/customer-segmentation-chatbot.git
-   cd customer-segmentation-chatbot
+   git clone https://github.com/KRV2928/RAGCHAT.git
+   cd RAGCHAT
    ```
 2. Install dependencies:  
    ```bash
