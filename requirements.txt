@@ -1,0 +1,6 @@
+chromadb
+sentence-transformers
+google-genai
+gradio
+python-dotenv
+textwrap3
